@@ -8,6 +8,9 @@
 #Result
 台灣也會努力
 
+#
+但也看到很多人在抱怨這樣根本裝不到水，也容易撞到人，還會弄得腳都濕掉
+
 #References
 
 巴黎馬拉松官方網站https://www.schneiderelectricparismarathon.com/en/registration/register
