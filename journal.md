@@ -7,4 +7,5 @@
 
 #References
 
-巴黎馬拉松官方網站
+巴黎馬拉松官方網站https://www.schneiderelectricparismarathon.com/en/registration/register
+巴黎城市環境憲章
